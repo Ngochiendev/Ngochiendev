@@ -14,9 +14,11 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Dart-282C34?logo=Dart&logoColor=#0175C2" alt="Dart logo" title="Dart" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Dart-282C34?logo=Dart&logoColor=0175C2" alt="Dart logo" title="Dart" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=#02569B" alt="Flutter logo" title="Flutter" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
@@ -24,15 +26,15 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=C++&logoColor=#00599C" alt="C++ logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=C++&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Microsoft Azure-282C34?logo=Microsoft Azure&logoColor=#0078D4" alt="Microsoft Azure logo" title="Microsoft Azure" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Microsoft Azure-282C34?logo=Microsoft Azure&logoColor=0078D4" alt="Microsoft Azure logo" title="Microsoft Azure" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Linux-282C34?logo=Linux&logoColor=###FCC624" alt="Linux logo" title="Linux" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Linux-282C34?logo=Linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" /></span>
 &nbsp;
-
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+
+<h2 align="center"> Where to find me 🔍</h2>
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/Stilvenn969" target="blank">
