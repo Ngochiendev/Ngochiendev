@@ -18,19 +18,19 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=61DAFB" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/laravel-282C34?logo=laravel&logoColor=23FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=white" alt="MyQSL logo" title="MySQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=C++&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
