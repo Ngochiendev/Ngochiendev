@@ -22,7 +22,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=61DAFB" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/laravel-23FF2D20?logo=laravel&logoColor=23FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span>
+<span><img src="https://img.shields.io/badge/laravel-282C34?logo=laravel&logoColor=23FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
